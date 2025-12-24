@@ -1,6 +1,6 @@
 # eval
 
-Minimalist, glassmorphic calculator for quick calculations.
+a minimalistic glassmorphic calculator for quick calculations.
 
 ## Usage
 
